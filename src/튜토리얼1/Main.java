@@ -6,6 +6,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("안녕 반갑다 첫 만남이야");
 		System.out.println("f11 버튼이 실행버튼이구나");
+		System.out.println("추가메세지");
+		
 	}
 
 }
